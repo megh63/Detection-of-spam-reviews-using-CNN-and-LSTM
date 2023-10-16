@@ -1,6 +1,6 @@
 # Detection-of-spam-reviews-using-Machine-Learning-and-Deep-Learning-algorithms
 In today's environment, a powerful and reliable method for detecting spam reviews is critical in order to
-acquire things without getting duped by internet companies. In many cases there, are choices for
+acquire things without getting duped by internet companies. In many cases there are choices for
 publishing reviews on web sites, and thus allowing for the creation of fraudulent paid or untruthful
 reviews. These fabricated evaluations have the potential to deceive the general public and put them in a
 confusion about whether or not to believe the review. Well-known machine learning approaches have
